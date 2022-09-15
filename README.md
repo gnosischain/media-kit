@@ -1,5 +1,6 @@
 # **Comms Guidelines**
 
+Welcome to the Gnosis Chain Media Kit. Check out the folders of this repo for material.
 
 ## **General**
 
@@ -38,7 +39,7 @@ Gnosis Safe (multisig and programmable account), Cow Protocol (formerly CowSwap 
 
 **Twitter**
 
-https://mobile.twitter.com/gnosischain
+https://www.twitter.com/gnosischain
 
 **Blog**
 
@@ -46,7 +47,7 @@ https://mirror.xyz/0xBcBfF58E166C78a0f7200Cc134b3b358eF0974E9/uiFuHjqlIfP3IhASl6
 
 **Discord**
 
-https://discord.gg/xW3X5EreBM
+https://discord.gg/VQb3WzsywU
 
 **Github Repo**
 
