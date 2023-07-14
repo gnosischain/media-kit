@@ -2,22 +2,22 @@
 
 ![Twitter Announcement 22 50 01](https://user-images.githubusercontent.com/75987728/229603031-493f1d6a-3658-4fb5-9c70-6ae2ff02b2d7.jpg)
 
-Welcome to the Gnosis Chain Media Kit. Check out the folders of this repo for material.
+Welcome to the Gnosis Chain Media Kit. Official brand guidelines, logos and copy for Gnosis Chain live here.
 
 ## Tagline 
-Gnosis Chain is an EVM compatible, community owned network that prioritizes credible neutrality and resiliency, open to everyone without privilege or prejudice. 
+Gnosis Chain is an EVM compatible, community-owned network that prioritizes credible neutrality and resiliency, open to everyone without privilege or prejudice. 
 
 ## 1 Sentence Description   
 
-Gnosis Chain is an EVM compatible, community owned network that prioritizes credible neutrality and resiliency, open to everyone without privilege or prejudice. 
+Gnosis Chain is an EVM compatible, community-owned network that prioritizes credible neutrality and resiliency, open to everyone without privilege or prejudice. 
 
 ## 2 Sentence Description
  
-Gnosis Chain is an EVM compatible, community owned network that prioritizes credible neutrality and resiliency, open to everyone without privilege or prejudice. Gnosis Chain is secured by over 100k validators around the world.
+Gnosis Chain is an EVM compatible, community-owned network that prioritizes credible neutrality and resiliency, open to everyone without privilege or prejudice. Secured by over 125k validators around the world, Gnosis Chain has all the tooling you are used to and trust-minimized bridges to mainnet.
 
 ## Longer Description/ Mission
 
-Gnosis Chain is an EVM compatible, community owned network that prioritizes credible neutrality and resiliency, open to everyone without privilege or prejudice. Secured by over 100k validators around the world, Gnosis Chain has all the tooling you are used to and trustless bridges to mainnet soon. Using the same execution layer and consensus layer clients as Ethereum, Gnosis Chain is compatible with all future EIPs.
+Gnosis Chain is an EVM compatible, community-owned network that prioritizes credible neutrality and resiliency, open to everyone without privilege or prejudice. Secured by over 125k validators around the world, Gnosis Chain has all the tooling you are used to and trust-minimized bridges to mainnet. Using the same execution and consensus layer clients as Ethereum, Gnosis Chain is fully compatible with all future EIPs.
 
 Its diverse validator set and the community governance ensure Gnosis Chain remains credibly neutral at a much lower price point than mainnet. Only 1 GNO is required to spin up a validator and the process is user-friendly. 
 
@@ -31,21 +31,7 @@ As a DAO, Gnosis uses the products that it creates to transparently guide decisi
 
 Gnosis Safe (multisig and programmable account), Cow Protocol (formerly CowSwap and Gnosis Protocol), Conditional Tokens (prediction markets), Gnosis Auction, and Zodiac (standard and tooling for composable DAOs) are all products incubated by Gnosis. Their success is demonstrated by the recent spin-out of Cow Protocol and the formation of SafeDAO. By combining needs-driven development with deep technical expertise, Gnosis has built the decentralized infrastructure for the Ethereum ecosystem.
 
-In November 2021, both the xDAI and GnosisDAO community voted to combine their vibrant ecosystems to create the Gnosis Chain: an EVM compatible, community owned network that prioritizes credible neutrality and resiliency. It uses the xDai token and includes a wide-ranging group of projects and users. Secured by over 100k validators around the world, Gnosis Chain has all the tooling you are used to and trustless bridges to mainnet soon. Using the same execution layer and consensus layer clients as Ethereum, Gnosis Chain is compatible with all future EIPs.
-
-## Gnosis Chain Tagline
-
-### Short:
-
-Gnosis Chain is an EVM compatible, community owned network that prioritizes credible neutrality and resiliency, open to everyone without privilege or prejudice. 
-
-### Long: 
-
-Gnosis Chain is an EVM compatible, community owned network that prioritizes credible neutrality and resiliency, open to everyone without privilege or prejudice. Secured by over 100k validators around the world, Gnosis Chain has all the tooling you are used to and trustless bridges to mainnet soon. Using the same execution and consensus layer clients as Ethereum, Gnosis Chain is compatible with all future EIPs.
-
-Its diverse validator set and the community governance ensure Gnosis Chain remains credibly neutral at a much lower price point than mainnet. Only 1 GNO is required to spin up a validator and the process is user-friendly. 
-
-Gnosis Chain uses a dual-token model. xDAI is a stable token used to pay for the execution of smart contracts and gas fees, and GNO is used for staking as the governance token for the GnosisDAO. 
+In November 2021, both the xDAI and GnosisDAO community voted to combine their vibrant ecosystems to create the Gnosis Chain: an EVM compatible, community-owned network that prioritizes credible neutrality and resiliency. It uses the xDai token and includes a wide-ranging group of projects and users. Secured by over 120k validators around the world, Gnosis Chain has all the tooling you are used to and trustless bridges to mainnet. Using the same execution and consensus layer clients as Ethereum, Gnosis Chain is fully  compatible with all future EIPs.
 
 ## **Channels**
 
@@ -61,7 +47,7 @@ Gnosis Chain uses a dual-token model. xDAI is a stable token used to pay for the
 
 ### DO
 
-* Gnosis Chain is a EVM compatible, community owned network that prioritizes credible neutrality and resiliency.
+* Gnosis Chain is a EVM compatible, community-owned network that prioritizes credible neutrality and resiliency.
 * Gnosis Chain is a future-forward network built for scalability, community, decentralization and sustainable growth. 
 * Gnosis Chain is the associated execution-layer EVM chain for stable transactions.
 * The network has been deployed & developed by theGnosisDAO after a token merger between the xDai and Gnosis communities.
