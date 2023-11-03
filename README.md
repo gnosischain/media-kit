@@ -1,6 +1,6 @@
 # **Comms Guidelines**
 
-![Twitter Announcement 22 50 01](https://user-images.githubusercontent.com/75987728/229603031-493f1d6a-3658-4fb5-9c70-6ae2ff02b2d7.jpg)
+![Twitter Announcement](https://github.com/gnosischain/media-kit/assets/75987728/06475a6a-3044-4299-b12e-84cffb13d6cd)
 
 Welcome to the Gnosis Chain Media Kit. Official brand guidelines, logos and copy for Gnosis Chain live here.
 
