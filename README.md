@@ -9,7 +9,7 @@ Welcome to the Gnosis Chain Media Kit. Official brand guidelines, logos and copy
 
 *Open infrastructure for **permissionless innovation***
 
-*Open infrastructure* **powered by solo stakers***
+*Open infrastructure **powered by solo stakers***
 
 *Open infrastructure for **decentralised payments***
 
