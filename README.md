@@ -5,7 +5,12 @@
 Welcome to the Gnosis Chain Media Kit. Official brand guidelines, logos and copy for Gnosis Chain live here.
 
 ## Tagline 
-Gnosis Chain is an EVM compatible, community-owned network that prioritizes credible neutrality and resiliency, open to everyone without privilege or prejudice. 
+Open infrastructure for a decentralised internet
+Open infrastructure for permissionless innovation
+Open infrastructure powered by solo stakers
+Open infrastructure for decentralised payments
+
+Open infrastructure for a decentralized internet is the global tagline for Gnosis. Open infrastructure for permissionless innovation is aimed at addressing developers and the last tagline is for our solo stakers, who secure Gnosis Chain by running nodes around the world. Open infrastructure for decentralised payments is directed towards Gnosis Pay and Gnosis as the best network for payments.
 
 ## 1 Sentence Description   
 
